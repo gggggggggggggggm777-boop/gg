@@ -28,8 +28,8 @@ from telethon.tl.functions import PingRequest
 
 API_ID = 37979088
 API_HASH = "125e4f6e134fe787ff7ae30688092b3b"
-BOT_TOKEN = "8912123959:AAFNtnyd4tarETvRsjjR2W7TgXOiwkGLRzo"
-OWNER_ID = 6965052196
+BOT_TOKEN = "8963200536:AAFEY04SB7X86pyOCrmlB3DA0L6Y5A8JrCM"
+OWNER_ID = 27349261
 
 bot = TelegramClient("manager", API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
